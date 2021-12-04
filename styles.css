@@ -178,3 +178,7 @@ h4 {
 .footer-text {
     color: #f9faf8;
 }
+
+* {
+    font-family: roboto, 'Times New Roman', Times, serif,;
+}
